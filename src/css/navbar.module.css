@@ -1,0 +1,7 @@
+.active{
+    font-weight: bold;
+}
+.hover:hover{
+    color: black !important;
+    font-weight: 600;
+}
